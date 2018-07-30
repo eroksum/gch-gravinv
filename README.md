@@ -1,6 +1,7 @@
 # gch-gravinv
 a MATLAB-based program for inverting gravity anomalies over sedimentary basins.
 Luan Thanh Pham, Erdinc Oksum*, Thanh Duc Do
+
 *Corresponding author. Tel.: +902462111355	E-mail adress: eroksum@gmail.com
 
 GCH_gravinv combines both Granser (1987) and Cordell & Henderson (1968) method
